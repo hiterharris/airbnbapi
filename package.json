@@ -25,7 +25,7 @@
     "homepage": "https://github.com/zxol/airbnbapi#readme",
     "dependencies": {
         "request": "^2.85.0",
-        "request-promise": "^4.2.4"
+        "request-promise": "^4.2.6"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
